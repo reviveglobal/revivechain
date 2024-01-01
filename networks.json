@@ -1,21 +1,21 @@
 [{
-		"title": "Polygon",
-		"url": "https://polygon.blockscout.com/",
-		"group": "Mainnets",
+		"title": "Revive",
+		"url": "https://revive.global/",
+		"group": "Main Website",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg"
+		"icon": "https://revive.global/testnetdocs/icon.png"
 	},
 	{
-		"title": "Optimism Goerli",
-		"url": "https://optimism-goerli.blockscout.com/",
+		"title": "Revive Testnet",
+		"url": "https://testnet.revive.global/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+		"icon": "https://revive.global/testnetdocs/icon.png"
 	},
 	
 	{
-		"title": "POA Sokol",
-		"url": "https://blockscout.com/poa/sokol",
+		"title": "Mining and Airdrop",
+		"url": "https://mining.revive.global",
 		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
+		"icon": "https://revive.global/testnetdocs/icon.png"
 	}
 ]
