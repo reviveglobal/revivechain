@@ -1,0 +1,21 @@
+[{
+		"title": "Polygon",
+		"url": "https://polygon.blockscout.com/",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg"
+	},
+	{
+		"title": "Optimism Goerli",
+		"url": "https://optimism-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	
+	{
+		"title": "POA Sokol",
+		"url": "https://blockscout.com/poa/sokol",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
+	}
+]
